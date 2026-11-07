@@ -1,0 +1,46 @@
+categoria;modelo;capacidade;condicao;preco_oficial_apple;preco_min_mercado;preco_max_mercado;observacao
+iPhone;18 Pro;256 GB;novo;11999;;;lançado 18/09/2026
+iPhone;18 Pro;512 GB;novo;13499;;;
+iPhone;18 Pro;1 TB;novo;16499;;;
+iPhone;18 Pro Max;256 GB;novo;12999;11699;13339;
+iPhone;18 Pro Max;512 GB;novo;14499;;;
+iPhone;18 Pro Max;1 TB;novo;17499;;;
+iPhone;18 Pro Max;2 TB;novo;21999;;;
+iPhone;18;;;;;;não lançado (previsto 2027)
+iPhone;17e;256 GB;novo;5999;;;
+iPhone;17;256 GB;novo;8299;4864;5800;oficial lançamento 7999
+iPhone;Air;256 GB;novo;10999;5759;7299;oficial lançamento 10499
+iPhone;17 Pro;256 GB;novo;11499;7099;8829;7099 importadora; descontinuado
+iPhone;17 Pro Max;256 GB;novo;12499;8655;8777;importadora; descontinuado
+iPhone;17 Pro Max;512 GB;novo;13999;9796;;oferta Pix out/26
+iPhone;16e;128 GB;novo;;3299;3499;
+iPhone;16;128 GB;novo;;4342;4549;lançamento 7799
+iPhone;16 Pro;128 GB;seminovo;;4500;6100;
+iPhone;16 Pro Max;256 GB;novo;;7799;8749;
+iPhone;16 Pro Max;256 GB;seminovo;;6300;7300;OLX 4200-6800
+iPhone;15;128 GB;novo;;3779;4800;
+iPhone;15;128 GB;seminovo;;2000;3200;Trocafone 4319
+iPhone;15 Plus;128 GB;seminovo;;2260;3578;
+iPhone;15 Pro;128-256 GB;seminovo;;3200;4840;
+iPhone;15 Pro Max;256 GB;seminovo;;4989;4989;
+iPhone;14;128 GB;seminovo;;2450;2700;
+iPhone;14 Plus;256 GB;seminovo;;3500;3500;
+iPhone;14 Pro Max;128-256 GB;seminovo;;3500;5530;
+MacBook;Neo 13 A18 Pro;8 GB/256 GB;novo;7299;;;educação 6199
+MacBook;Neo 13 A18 Pro;8 GB/512 GB;novo;8499;;;
+MacBook;Air 13 M5;base;novo;15999;13900;15400;lançamento 13999
+MacBook;Air 15 M5;base;novo;17999;;;lançamento 15999
+MacBook;Pro 14 M5;base;novo;24999;;;lançamento 20999
+MacBook;Pro 14 M5 Pro;base;novo;30999;;;lançamento 26999
+MacBook;Pro 16 M5 Max;base;novo;53999;;;lançamento 47999
+MacBook;Air 13 M4;16 GB/256 GB;novo;;10199;14299;
+MacBook;Air 15 M4;base;novo;;13169;;
+MacBook;Air 13 M3;base;novo;;12499;12499;
+MacBook;Air 13 M2;base;novo;;7694;7694;
+MacBook;Air M1;base;seminovo;;3300;4600;
+MacBook;Air M2;base;seminovo;;5000;6000;
+MacBook;Air M3;base;seminovo;;5950;5950;
+MacBook;Air M4;base;seminovo;;6580;6580;
+MacBook;Pro M1 Pro;base;seminovo;;5880;5880;
+MacBook;Pro M3 Pro;base;seminovo;;8490;8490;
+MacBook;Pro M4 Pro;base;seminovo;;12780;12780;
