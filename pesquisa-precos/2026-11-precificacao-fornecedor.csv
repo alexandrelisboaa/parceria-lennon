@@ -1,0 +1,16 @@
+produto;cor;preco_usd;taxa_importacao_usd;custo_total_usd;custo_brl;menor_preco_mercado;preco_sugerido;lucro_brl;margem_sobre_custo;margem_sobre_venda
+iPhone Duo 256 GB;Night Sky / Star White;2400;240;2640;14546;21999;18990;4444;30.5%;23.4%
+iPhone 18 Pro 256 GB;Burgundy;1250;125;1375;7576;10799;9990;2414;31.9%;24.2%
+iPhone 18 Pro 256 GB;Black / Glacier;1260;126;1386;7637;10799;9990;2353;30.8%;23.6%
+iPhone 18 Pro 512 GB;Burgundy;1465;146;1612;8879;13499;11490;2611;29.4%;22.7%
+iPhone 18 Pro Max 256 GB;Silver;1450;145;1595;8788;11599;10990;2202;25.1%;20.0%
+iPhone 18 Pro Max 256 GB;Black / Glacier / Burgundy;1460;146;1606;8849;11599;10990;2141;24.2%;19.5%
+iPhone 18 Pro Max 512 GB;Burgundy;1700;170;1870;10304;13049;12490;2186;21.2%;17.5%
+iPhone 17 256 GB;Green;880;88;968;5334;5354;5490;156;2.9%;2.8%
+iPhone 17 256 GB;Lavender;905;90;996;5485;5354;5490;5;0.1%;0.1%
+iPhone 17 Pro Max 256 GB;Orange;1185;118;1304;7182;9387;8490;1308;18.2%;15.4%
+iPhone 17 Pro Max 256 GB;Blue;1190;119;1309;7213;9387;8490;1277;17.7%;15.0%
+iPhone 17 Pro Max 256 GB;Silver;1250;125;1375;7576;9387;8490;914;12.1%;10.8%
+iPad 11 A16 128 GB Wi-Fi;Blue;448;45;493;2715;3170;2990;275;10.1%;9.2%
+MacBook Neo 256 GB;Citrus / Indigo;730;73;803;4425;6479;5990;1565;35.4%;26.1%
+MacBook Neo 512 GB;Citrus / Indigo;840;84;924;5091;7856;6990;1899;37.3%;27.2%
