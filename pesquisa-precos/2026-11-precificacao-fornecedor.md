@@ -8,8 +8,8 @@ custo final (R$) = preço do fornecedor (US$) × 1,10 (taxa de 10% do importador
 
 Exemplo: iPhone Duo Night Sky → 2.400 + 240 (10%) = 2.640 US$ × 5,51 = **R$ 14.546**.
 
-**Premissas — confirmar com o fornecedor:**
-- A taxa de 10% **já inclui frete e impostos/alfândega**. Se não incluir, o custo sobe e as margens abaixo caem.
+**Premissas:**
+- A taxa de 10% **já inclui frete e impostos** (confirmado pelo fornecedor).
 - Dólar de **R$ 5,51**. Cada R$ 0,10 a mais no dólar aumenta o custo em ~1,8%.
 - Os valores não incluem taxa de cartão/parcelamento (~3–5%) nem comissão de marketplace (Mercado Livre/Amazon ~11–19%). **Preço sugerido = venda direta no Pix.**
 
