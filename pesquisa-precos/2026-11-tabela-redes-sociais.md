@@ -6,7 +6,7 @@ Venda direta para os seguidores, sem marketplace. O cliente compra pela confian�
 
 - **Custo** = preço do fornecedor (US$) × 1,10 × R$ 5,51. Os 10% do importador **já incluem frete e impostos** (confirmado).
 - **Preço Pix** é o preço principal de divulgação.
-- **Cartão 12x** = preço Pix ÷ 0,88. Isso repassa ~12% de taxa da maquininha ou link de pagamento (InfinitePay, Mercado Pago, PagSeguro etc.) em 12x **com juros para o cliente**. Ajuste conforme a taxa real da sua conta.
+- **Parcelamento: os juros são sempre do cliente.** O preço base é o do Pix; no cartão, o cliente paga a taxa da maquininha/link de pagamento conforme o número de parcelas que escolher. A coluna "Cartão 12x" é só um **exemplo** com ~12% de taxa em 12x — o valor real sai da simulação da sua maquininha.
 - Dólar de referência: R$ 5,51 (06/11/2026). Se o dólar passar de ~R$ 5,70, recalcule.
 
 ## Tabela
