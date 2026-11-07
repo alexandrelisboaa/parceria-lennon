@@ -48,8 +48,7 @@ Legenda: ✅ margem ≥ 20% · ⚠️ 10–20% · ❌ abaixo de 10%.
 
 ## Atenção antes de vender
 
-- **eSIM:** iPhones americanos (LLA) da linha 17 Pro/18 Pro são **somente eSIM**, sem gaveta de chip físico. Avisar o cliente e checar se a operadora dele ativa eSIM.
-- **iPhone 17 "A3520":** confirmar a região e se aceita chip físico.
+- **Chip:** os iPhones deste fornecedor aceitam **chip físico e eSIM** (confirmado). Vale destacar isso no anúncio, pois parte dos modelos americanos à venda no mercado é só eSIM.
 - **Garantia:** sem garantia Apple Brasil. Vale oferecer garantia própria (ex.: 90 dias) e emitir nota fiscal, porque isso diferencia de vendedor informal.
 - **Teclado do MacBook Neo americano** vem em layout US (sem Ç). Informar no anúncio.
 

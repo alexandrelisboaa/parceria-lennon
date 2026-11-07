@@ -40,7 +40,7 @@ Legenda: ✅ margem ≥ 20% · ⚠️ 10–20% · ❌ abaixo de 10% (margem calc
 
 ## Para vender pelas redes com segurança
 
-- Informe **sempre** no post/stories: *modelo americano, somente eSIM* (iPhones 17 Pro/18 Pro LLA), *sem garantia Apple Brasil*, *teclado US* (MacBook).
+- Informe **sempre** no post/stories: *modelo americano (LLA)*, *aceita chip físico e eSIM*, *sem garantia Apple Brasil*, *teclado US* (MacBook).
 - Ofereça **garantia própria** (ex.: 90 dias) e **nota fiscal**. Isso é o que justifica o cliente comprar com você e não na Amazon.
 - Use **link de pagamento** (cartão) ou Pix em CNPJ, para passar segurança e evitar golpe.
 - Trabalhe com **pré-venda / encomenda** (sinal via Pix + prazo de chegada) para não empatar capital em estoque.
